@@ -25,7 +25,7 @@ This workshop repository provides a hands-on, self-contained project for buildin
 ## Project Structure
 
 ```text
-pydantic-duckdb-pipelines/
+simple-data-lakehouse/
 ├── data/
 │   ├── raw_events_*.json      # Generated synthetic JSON event payloads (streamed)
 │   └── analytics.parquet      # Exported Parquet file for the dashboard
