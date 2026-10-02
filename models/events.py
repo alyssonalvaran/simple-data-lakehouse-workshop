@@ -11,7 +11,6 @@ class BaseEvent(BaseModel):
     event_id: str = Field(..., description="Unique UUID for the event.")
     event_name: str = Field(..., description="Standardized event name in dot notation (e.g., 'user.signup').")
     timestamp: datetime = Field(..., description="UTC timestamp of the event.")
-    tenant_id: str = Field(..., description="Subdomain or unique identifier for the tenant.")
 
 
 class UserSignupEvent(BaseEvent):
