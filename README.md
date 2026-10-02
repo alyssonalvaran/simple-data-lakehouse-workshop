@@ -43,8 +43,8 @@ simple-data-lakehouse/
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/alyssonalvaran/pydantic-duckdb-pipelines](https://github.com/alyssonalvaran/pydantic-duckdb-pipelines)
-cd pydantic-duckdb-pipelines
+git clone [https://github.com/alyssonalvaran/simple-data-lakehouse](https://github.com/alyssonalvaran/simple-data-lakehouse)
+cd simple-data-lakehouse
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -126,4 +126,4 @@ Finished the core workshop? Here are a few ways you can extend the project and t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/alyssonalvaran/pydantic-duckdb-pipelines/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/alyssonalvaran/simple-data-lakehouse/blob/main/LICENSE) file for details.
