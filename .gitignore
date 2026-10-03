@@ -217,4 +217,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# OS Files (Mac/Windows)
 .DS_Store
+Thumbs.db
+
+# Project Data (Do not commit generated fake data or database files)
+data/
+*.parquet
+*.json
+*.duckdb
